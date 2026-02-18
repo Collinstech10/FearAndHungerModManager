@@ -14,3 +14,6 @@ www/js/*
 !www/dev/
 !www/dev/*
 !www/dev/**/*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
